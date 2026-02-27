@@ -44,11 +44,8 @@ from crewai.agents import Agent
 
 # After
 from crewai import Agent
-```
-`crewai.agents` does not exist as a public module. This caused an immediate
-`ImportError` on startup preventing the server from running at all.
-
----
+crewai.agents does not exist as a public module. This caused an immediate
+ImportError on startup preventing the server from running at all.
 
 #### Bug 2 — LLM Variable Never Defined
 **File:** `agents.py`
