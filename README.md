@@ -4,6 +4,10 @@ A multi-agent AI system built with CrewAI that analyzes financial PDF documents
 and returns structured investment insights, risk assessments, and key financial
 metrics — powered by Groq's free LLM API.
 
+<img width="1902" height="704" alt="image" src="https://github.com/user-attachments/assets/35ea7037-fc00-4a38-b86d-e63212e88edc" />
+<img width="1766" height="883" alt="image" src="https://github.com/user-attachments/assets/652bf186-ebc6-4b04-87d9-201d997b4032" />
+
+
 ---
 
 ## Table of Contents
